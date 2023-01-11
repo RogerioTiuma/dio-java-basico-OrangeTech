@@ -1,18 +1,29 @@
-## Getting Started
+# Anatomia das classes
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Declarando variáveis 1
 
-## Folder Structure
+Todo arquivo .java deve começar com letra MAIUSCULA, se a palavra for composta, cada palavra deve iniciar com maiuscula
+ex.: NovaCalculadora
 
-The workspace contains two folders by default, where:
+Variável: toda variável dever iniciar com letra minúscula,
+mas se for composta as próximas palavras devem iniciar com letras
+MAIUSCULAS. -> Essa regra se chama camelCase
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Variáveis toda MAIÚSCULAS são entendidas como inalteráveis.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Ex.: 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+int ESTADOS_BRASILEIROS = 27
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Regra de boas práticas para declarar variáveis:
+
+- Deve conter apenas letras, _(underline),$ ou os números de 0 à 9
+- Deve iniciar com letra minúscula
+- Não pode conter espaços
+- Não podemos usar palavras-chave da linguagem
+- O nome deve ser único dentro de um escopo
+
+## Declarando variáveis 2
+
+Todo método está no infinitivo no java.
