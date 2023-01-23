@@ -3,7 +3,8 @@
 ## Declarando variáveis 1
 
 Todo arquivo .java deve começar com letra MAIUSCULA, se a palavra for composta, cada palavra deve iniciar com maiuscula
-ex.: NovaCalculadora
+
+Ex.: NovaCalculadora
 
 Variável: toda variável dever iniciar com letra minúscula,
 mas se for composta as próximas palavras devem iniciar com letras
