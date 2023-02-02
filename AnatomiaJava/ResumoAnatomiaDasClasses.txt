@@ -1,0 +1,128 @@
+# Anatomia das classes
+
+##Declarando main
+
+public static void main()
+
+ex.: public static void main(String[] args)
+
+##Declarando string
+
+String nome = "o que deseja escrever"
+
+##Declarando print
+
+System.out.print(parâmetro)
+
+
+
+## Anatomia de Classes 1
+
+O nome do projeto deve ser o mesmo do nome da classe.
+
+Todo arquivo .java deve começar com letra MAIUSCULA, se a palavra for composta, 
+cada palavra deve iniciar com maiuscula
+ex.: NovaCalculadora
+
+Variável: toda variável dever iniciar com letra minúscula,
+mas se for composta as próximas palavras devem iniciar com letras
+MAIUSCULAS. -> Essa regra se chama camelCase
+
+
+## Anatomia de Classes 2
+
+
+Variáveis toda MAIÚSCULAS são entendidas como inalteráveis.
+
+Ex.: 
+
+int ESTADOS_BRASILEIROS = 27 <- Esse tipo de declaração poderia
+corresponder a -> final String = ESTADOS_BRASILEIROS = 27;
+
+
+Regra de boas práticas para declarar variáveis:
+
+- Deve conter apenas letras, _(underline),$ ou os números de 0 à 9
+- Deve iniciar com letra minúscula
+- Não pode conter espaços
+- Não podemos usar palavras-chave da linguagem
+- O nome deve ser único dentro de um escopo
+
+
+## Anatomia de Classes 3
+
+
+
+Toda variável deve seguir a estrutura
+
+Tipo NomeBemDefinido = atribuição;
+
+Ex.1:
+
+public class MinhaClasse {
+
+public static void main (String [] args){
+	String meuNome = "Rogério";
+	int anoFabricacao = 2022;
+	boolean verdadeira = false;
+	anoFabricacao = 2018;
+	
+Ex.2: TipoRetorno NomeObjetivoNoInfinitivo Parametros(s)
+
+	int somar (int numeroUm, int numero2)
+	String formatarCep(long cep)
+
+Ex.3:
+	public static void main (String [] args){
+	String srimeiroNome = "Rogerio";
+	String segundoNome = "Sampaio";
+
+	String nomeCompleto = nomeCompleto(primeiroNome,segundoNome);
+	}
+	public static String nomeCompleto(String primeiroNome, String segundoNome){
+	return "Resultado do método"+primeiroNome.concat("").concat(segundoNome)
+	
+	}
+Todo método está no infinitivo no java.
+
+
+
+## Anatomia de Classes 4
+
+public class BoletimEstudantil {
+
+	public static void main(String[] args){
+
+	int mediaFinal = 6;
+	if(mediaFinal<6)
+		System.out.println("REPROVADO")
+	else if (mediaFinal == 6)
+		System.out.println("PROVA MINERVA");
+	else
+		System.out.println("APROVADO");
+	}
+}
+
+## Anatomia de Classes 5 - Pacotes
+
+Usados para organizar os diversos projetos que serão 
+realizados.
+
+
+## Anatomia das Classes 5
+
+Java Beans
+
+Regras criadas pela comunidade Java
+
+- Uma variável deve ser clara, sem abreviações ou definições sem sentido;
+- Uma variável é sempre no singular, exceto quando se referir a uma array ou coleção;
+- Defina um único idioma para as variáveis;
+
+
+## Tipos e Variáveis 1
+
+Introdução.
+
+## Tipos e Variáveis 2
+Configuração do Git
