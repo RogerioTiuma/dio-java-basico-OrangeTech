@@ -120,9 +120,3 @@ Regras criadas pela comunidade Java
 - Defina um único idioma para as variáveis;
 
 
-## Tipos e Variáveis 1
-
-Introdução.
-
-## Tipos e Variáveis 2
-Configuração do Git
