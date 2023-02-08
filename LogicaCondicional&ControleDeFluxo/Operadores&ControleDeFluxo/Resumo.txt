@@ -1,0 +1,13 @@
+#Operadores Lógicos
+
+Conjunção: operação lógica que só é verdadeira quando ambos os operandos
+ou expressões envolvidas são verdadeiras.(Símbolo: &&)
+
+Disjunção: operação lógica que só é falsa quando ambos os operandos 
+ou expressões envolvidas são verdadeiras. (Símbolo: ||)
+
+Disjunção exclusiva: operação que só é verdade quando ambos os 
+operandos ou expressões são opostos.(Símbolo: ^)
+
+Negação: operação que inverte o valor lógico de um opetando ou expressão.
+(Símbolo: !)
