@@ -2,6 +2,8 @@ public class Usuario {
     public static void main(String[] args) throws Exception {
         SmartTv smartTv = new SmartTv();
 
+        smartTv.mudarCanal(13);
+        System.out.println("O novo canal :" + smartTv.canal);
 
         smartTv.diminuirVolume();
         smartTv.diminuirVolume();
