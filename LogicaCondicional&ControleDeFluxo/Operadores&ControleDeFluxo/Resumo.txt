@@ -11,3 +11,16 @@ operandos ou expressões são opostos.(Símbolo: ^)
 
 Negação: operação que inverte o valor lógico de um opetando ou expressão.
 (Símbolo: !)
+
+#Controle de fluxo
+
+Decisão: estrutura que avalia uma condição booleana ou variável para direcionar
+o fluxo de execução.
+
+- Boas práticas:
+
+Usar switch quando houver apenas uma variável para avaliar.
+Usar if quando houver mais de uma variável.
+Usar o default do switch para indicar erros.
+Evitar o efeito "flecha" dos if's.
+Usar um método para cada função.
