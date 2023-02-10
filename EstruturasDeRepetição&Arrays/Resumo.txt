@@ -1,0 +1,18 @@
+##Estruturas de Repetição
+
+Tipos de estruturas
+
+- repetição com teste no início (while)
+- repetição com teste no final (do-while)
+- repetição contada (for)
+
+O comando break é utilizado para terminar de forma abrupta uma repetição.
+
+#Exercícios
+
+ctrl+d -> duplica linha
+
+ctrl+shift+up -> sobe parte do código para dentro de chaves
+
+alt+enter -> Aplica pacote
+
