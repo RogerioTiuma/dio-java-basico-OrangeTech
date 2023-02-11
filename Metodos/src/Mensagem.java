@@ -21,4 +21,6 @@ public class Mensagem{
     public static void mensagemBoaNoite() {
         System.out.println("Boa Noite");
     }
+
+    
 }
