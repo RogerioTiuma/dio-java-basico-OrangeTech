@@ -6,6 +6,16 @@ public class Main {
         Calculadora.subtração(8, 20);
         Calculadora.multiplicao(17, 8); 
         Calculadora.divisao(10, 2);
+
+        Mensagem.obterMensagem(9);
+        Mensagem.obterMensagem(21);
+
+        Emprestimo.calcular(50, 2);
+
+
+
+
     }
     
+
 }
