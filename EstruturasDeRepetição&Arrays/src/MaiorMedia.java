@@ -19,5 +19,6 @@ public class MaiorMedia {
 
         }while(contador <5);
         System.out.println("O maior é: " + maior);
+        scan.close();
     }
 }

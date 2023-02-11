@@ -20,8 +20,9 @@ public class NomeIdade {
 
         System.out.println("Idade:  ");
         idade = scan.nextInt();
+        System.out.println(idade);
         }
-        
+        scan.close();
 
         
     }
