@@ -1,0 +1,23 @@
+Metodo: é uma porção de código (sub-rotina) que é disponibilidade
+por uma classe. Este é executado quando é feita uma requisição a ele.
+São responsáveis por definir e realizar determinado comportamento.
+
+
+Padrão:
+<?visibilidade?><?tipo?><?modificador?> retorno nome(<?parâmetros?>)
+<?exceções?> corpo
+
+*Com interrogação é opcional.
+
+public static R N(P){...}
+
+Boas práticas
+
+- Nomes descritivos e curtos
+- Notação Camel
+- Deve possuir entre 80 e 120 linhas, no máximo
+- Evite lista de parâmetros longas
+- Visibilidades adequadas
+
+Sobre Cargas: é a capacidade de definir métodos para diferentes
+contextos, mas preservando seu nome.
