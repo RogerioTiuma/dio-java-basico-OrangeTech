@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SintaxeJava/AnatomiaJava/AnatomiaJava.iml" filepath="$PROJECT_DIR$/SintaxeJava/AnatomiaJava/AnatomiaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections_/Collections_.iml" filepath="$PROJECT_DIR$/Collections_/Collections_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios 1/Desafios 1.iml" filepath="$PROJECT_DIR$/Desafios 1/Desafios 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios2/Desafios2.iml" filepath="$PROJECT_DIR$/Desafios2/Desafios2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturasDeRepetição&amp;Arrays/EstruturasDeRepetição&amp;Arrays.iml" filepath="$PROJECT_DIR$/EstruturasDeRepetição&amp;Arrays/EstruturasDeRepetição&amp;Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LogicaCondicional&amp;ControleDeFluxo/LogicaCondicional&amp;ControleDeFluxo.iml" filepath="$PROJECT_DIR$/LogicaCondicional&amp;ControleDeFluxo/LogicaCondicional&amp;ControleDeFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodos/Metodos.iml" filepath="$PROJECT_DIR$/Metodos/Metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SintaxeJava/MeuPrimeiroJava/MeuPrimeiroJava.iml" filepath="$PROJECT_DIR$/SintaxeJava/MeuPrimeiroJava/MeuPrimeiroJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Meus_Codigos/Meus_Codigos.iml" filepath="$PROJECT_DIR$/Meus_Codigos/Meus_Codigos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SintaxeJava/Operadores/Operadores.iml" filepath="$PROJECT_DIR$/SintaxeJava/Operadores/Operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SintaxeJava/SintaxeJava.iml" filepath="$PROJECT_DIR$/SintaxeJava/SintaxeJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SintaxeJava/Sistema-Smart-TV/Sistema-Smart-TV.iml" filepath="$PROJECT_DIR$/SintaxeJava/Sistema-Smart-TV/Sistema-Smart-TV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Treinos/Treinos.iml" filepath="$PROJECT_DIR$/Treinos/Treinos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dio-java-basico-OrangeTech.iml" filepath="$PROJECT_DIR$/.idea/dio-java-basico-OrangeTech.iml" />
+    </modules>
+  </component>
+</project>

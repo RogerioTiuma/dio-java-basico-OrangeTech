@@ -1,0 +1,52 @@
+#Método list
+
+import java.util.ArrayList
+import java.util.List
+
+List<double> notas = new ArrayList<>(); -> Iniciando list
+
+notas.add() -> adiciona elemento
+
+System.out.println(notas.toString()); -> imprime a lista
+
+System.out.println(notas.indexof(5d)) -> imprime elemento de um elemento específico
+
+notas.set() -> substitui um elemento
+notas.contains(5d) -> busca saber se um elemento existe
+
+notas.get(2) -> Trás o elemento de acordo com a posição, no caso 2
+
+Collections.min(notas) -> retorna menor nota
+
+Collections.max(notas) -> retorna maior nota
+
+
+Soma dos valores em notas
+
+Iterator<Double> iterator = notas.iterator();
+Double soma = 0d;
+
+while(iterator.hasNext()){
+	Double next = iterator.next();
+	soma += next;}
+
+notas.size() -> tamanho do vetor
+
+notas.remove(0d) -> remove a nota 0
+
+notas.remove(0) -> remove a nota na posição 0
+
+Remove notas menores que 7:
+
+Iterator<Double> iterator1 = notas.iterator();
+	while(iterator1.hasNext()){
+ 	Double next = iterator1.next();
+	if(next < 7) iterator1.remove();}
+
+notas.clear -> Remove todos os elementos da lista
+notas.isEmpty -> Verifica se esta vazio
+
+
+# Organizando list
+
+
